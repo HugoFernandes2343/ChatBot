@@ -1,0 +1,27 @@
+{
+  "name": "chatbot-project",
+  "version": "1.0.0",
+  "description": "project created by Hugo Fernandes following a Udemy tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HugoFernandes2343/ChatBot.git"
+  },
+  "keywords": [
+    "ChatBot"
+  ],
+  "author": "Hugo Fernandes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HugoFernandes2343/ChatBot/issues"
+  },
+  "homepage": "https://github.com/HugoFernandes2343/ChatBot#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}

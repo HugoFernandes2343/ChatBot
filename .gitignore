@@ -1,0 +1,13 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/.gitignore
+.idea/ChatBot project.iml
+.idea/checkstyle-idea.xml
+.idea/codeStyles/
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+node_modules/
+package-lock.json
+.idea/sonarlint/
+.idea/sonarIssues.xml
